@@ -1,0 +1,17 @@
+*.swp
+.idea
+.DS_STORE
+npm-debug.log*
+*~
+test.sqlite
+*.sublime*
+
+.nyc_output
+coverage-*
+coverage
+test/tmp/*
+test/binary/tmp/*
+.vscode/
+esdoc
+node_modules
+dist
